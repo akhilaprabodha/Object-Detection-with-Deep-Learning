@@ -1,8 +1,8 @@
 # Object Detection with Deep Learning
 
-In this section, we will review Object Detection using CNNs. We will focus on the output of the CNN and assume a sliding window is used. In the next section, we will discuss more effective methods that do not rely on sliding windows, but the output of the CNN is similar in any case. We will discuss the prediction step as well as give an overview of training. 
+## 📖 Introduction
 
-This section will provide an overview, as there are many details in object detection depending on the application. In addition, evaluating Object Detectors is complex, so we will leave some references for further reading.  
+In this project, we will explore Object Detection using Convolutional Neural Networks (CNNs) with a sliding window approach. We'll provide an overview of prediction and training methods, focusing on how CNNs detect and classify objects. While primarily discussing sliding windows, we'll also touch on more efficient methods.
 
 ### Object Detection Prediction 
 
@@ -64,17 +64,6 @@ Single-Stage methods are faster but less accurate and include techniques like Si
 In the following two labs, you will use Faster RCNN for prediction. You will train an SSD model, even though SSD is considerably faster than other methods, it will still take a  long time to train. Therefore we will train most of the model for you, and you will train the model for the last few iterations. 
 
  
-
-References and Further Reading 
-Jaccard Index
-
-Evolution Of Object Detection Networks
-
-Girshick, Ross. "Fast R-CNN." Proceedings of the IEEE international conference on computer vision. 2015.
-
-Ren, Shaoqing, et al. "Faster R-CNN: Towards real-time object detection with region proposal networks." 2015
-
-
 
 
 
