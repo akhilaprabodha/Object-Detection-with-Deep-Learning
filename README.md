@@ -87,4 +87,4 @@ In the following two labs, you will use Faster R-CNN for prediction. You will tr
 4. Ren, Shaoqing, et al. "Faster R-CNN: Towards real-time object detection with region proposal networks." 2015
 
 ## 📌 Mian Source
-[Introduction to Computer Vision and Image Processing](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv/home/week/1) course presents by `IBM`
+[Introduction to Computer Vision and Image Processing](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv/home/week/1) course presents by [IBM](https://www.coursera.org/ibm-skills-network)
