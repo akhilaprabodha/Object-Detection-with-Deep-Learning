@@ -69,7 +69,7 @@ Finally, to determine the classification, we combine the L2 cost with the cross-
   $\text{Multitask Loss} = \text{L2 Loss} + \text{Cross entropy}$
 </p>
 
-## Types of Object Detection 🕵️‍♂️🔍
+## 🕵️‍♂️ Types of Object Detection
 
 Sliding window techniques are slow. Fortunately, there are two major types of object detection that speed up the process. Region-based object detection breaks up the image into regions and performs a prediction, while Single-Stage uses the entire image.
 
