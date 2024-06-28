@@ -48,7 +48,7 @@ Consider the example in Figure 6 - we have the bounding box in red. To find the 
   <b>Figure 6: Example of softmax layers used to predict the class of bounding box for three classes.</b>
 </p>
 
-## Training for Object Detection 🏋️‍♂️🧠
+## 🏋️‍♂️ Training for Object Detection
 
 Training in Object Detection has two objectives: we have to determine the learnable parameters for the box and we have to determine the bounding boxes class. In order to determine the learnable parameters for the bounding box, we use the L2 or squared loss. This is used to find the difference between real value predictions. The L2 Loss Function calculates squared differences between the actual box value and the predicted box, as shown in Figure 7, where we have the box and the L2 Loss for each coordinate of the box.
 
